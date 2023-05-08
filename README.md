@@ -17,5 +17,5 @@ Actualmente estoy en constante proceso de actualización y aprendizaje, por lo q
 
 Si deseas ponerte en contacto conmigo, no dudes en hacerlo a través de estos medios:
 
-- 📧 [Correo electrónico](mailto:davidsantiago434@gmail.com) (icono de Gmail)
-- 👥 [LinkedIn](https://www.linkedin.com/in/david-santiago-207952224/) (icono de LinkedIn)
+- 📧 [Correo electrónico](mailto:davidsantiago434@gmail.com) 
+- 👥 [LinkedIn](https://www.linkedin.com/in/david-santiago-207952224/) 
