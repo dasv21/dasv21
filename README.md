@@ -7,7 +7,7 @@ Considero que la constante actualización es la clave para mantenerme siempre a 
 
 Además, trabajo con las siguientes tecnologías:
 
-- 💻 Lenguajes de programación: Python, JavaScript, Html, Css, PHP.
+- 💻 Lenguajes de programación: Python, JavaScript, Html, Css, PHP, Java.
 - 🛢️ Bases de datos: MySQL.
 - 🌐 Frameworks web: Proximamente.
 - 🚀 Herramientas de desarrollo: Git.
@@ -18,4 +18,5 @@ Actualmente estoy en constante proceso de actualización y aprendizaje, por lo q
 Si deseas ponerte en contacto conmigo, no dudes en hacerlo a través de estos medios:
 
 - 📧 [Correo electrónico](mailto:davidsantiago434@gmail.com) 
-- 👥 [LinkedIn](https://www.linkedin.com/in/david-santiago-207952224/) 
+- 👥 [LinkedIn](https://www.linkedin.com/in/david-santiago-207952224/)
+- 🎓 [Titulos y certificados academicos](https://github.com/dasv21/Titulos-Cursos)
