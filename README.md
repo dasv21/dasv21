@@ -7,7 +7,7 @@ Considero que la constante actualización es la clave para mantenerme siempre a 
 
 Además, trabajo con las siguientes tecnologías:
 
-- 💻 Lenguajes de programación: Python, JavaScript, Html, Css, PHP, Java.
+- 💻 Lenguajes de programación: Python, JavaScript, HTML, CSS, PHP, Java.
 - 🛢️ Bases de datos: MySQL.
 - 🌐 Frameworks web: Proximamente.
 - 🚀 Herramientas de desarrollo: Git.
