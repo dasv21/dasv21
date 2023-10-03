@@ -10,6 +10,7 @@ Además, trabajo con las siguientes tecnologías:
 - 💻 Lenguajes de programación: Python, JavaScript, HTML, CSS, PHP, Java.
 - 🛢️ Bases de datos: SQL.
 - 🌐 Frameworks web: Spring Boot.
+- 📌 Testing: Junit.
 - 🚀 Herramientas de desarrollo: Git, Intellij, VsCode.
 - 📦 Sistemas operativos: Windows, Linux.
 
