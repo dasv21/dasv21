@@ -9,15 +9,16 @@ Considero que la constante actualización es la clave para mantenerme siempre a 
 
 | Tecnología | Nivel de experiencia |
 |---|---|
-| **[Java](https://img.shields.io/badge/Java-Avanzado-green)** | **[Avanzado](https://img.shields.io/badge/Avanzado-green)** |
-| **[Spring](https://img.shields.io/badge/Spring-Intermedio-yellow)** | **[Intermedio](https://img.shields.io/badge/Intermedio-yellow)** |
-| **[Git](https://img.shields.io/badge/Git-Intermedio-yellow)** | **[Intermedio](https://img.shields.io/badge/Intermedio-yellow)** |
-| **[Html & Css](https://img.shields.io/badge/Html&Css-Intermedio-yellow)** | **[Intermedio](https://img.shields.io/badge/Intermedio-yellow)** |
-| **[Junit](https://img.shields.io/badge/Junit-Básico-red)** | **[Básico](https://img.shields.io/badge/Básico-red)** |
-| **[JavaScript](https://img.shields.io/badge/JavaScript-Básico-red)** | **[Básico](https://img.shields.io/badge/Básico-red)** |
-| **[PHP](https://img.shields.io/badge/PHP-Básico-red)** | **[Básico](https://img.shields.io/badge/Básico-red)** |
-| **[Python](https://img.shields.io/badge/Python-Básico-red)** | **[Básico](https://img.shields.io/badge/Básico-red)** |
-| **[SQL](https://img.shields.io/badge/SQL-Básico-red)** | **[Básico](https://img.shields.io/badge/Básico-red)** |
+| Java | Avanzado |
+| Spring | Intermedio |
+| Git | Intermedio |
+| Html & Css | Intermedio |
+| Junit | Básico |
+| JavaScript | Básico |
+| PHP | Básico |
+| Python | Básico |
+| SQL | Básico |
+
 ## Objetivos profesionales
 
 * Convertirme en un desarrollador de software experimentado y altamente calificado.
