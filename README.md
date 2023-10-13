@@ -9,10 +9,10 @@ Considero que la constante actualización es la clave para mantenerme siempre a 
 
 | Tecnología | Nivel de experiencia |
 |---|---|
-| Java | Avanzado |
+| Java | Intermedio |
 | Spring | Intermedio |
 | Git | Intermedio |
-| Html & Css | Intermedio |
+| Html & Css | Básico |
 | Junit | Básico |
 | JavaScript | Básico |
 | PHP | Básico |
