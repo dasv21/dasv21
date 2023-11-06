@@ -12,6 +12,7 @@ Considero que la constante actualización es la clave para mantenerme siempre a 
 | Java | Intermedio |
 | Spring | Intermedio |
 | Git | Intermedio |
+| Docker | Básico |
 | Html & Css | Básico |
 | Junit | Básico |
 | JavaScript | Básico |
