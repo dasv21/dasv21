@@ -28,7 +28,3 @@ Como Ingeniero de Sistemas y Desarrollador de Software, me entusiasma el aprendi
 
 - 📧 [Correo electrónico](mailto:davidsantiago434@gmail.com) 
 - 👥 [LinkedIn](https://www.linkedin.com/in/david-santiago-207952224/)
-
-## Información
-
-- 🎓 [Titulos y certificados academicos](https://github.com/dasv21/Titulos-Cursos)
