@@ -1,9 +1,7 @@
 # ¡Hola, mi nombre es David Santiago! 👋
 
 ## ¿Quién soy?
-Soy un Ingeniero de Sistemas y Desarrollador en formación capacitado y orientado a las últimas tecnologías de información y sistemas. Mi especialidad incluye la planificación, diseño e implementación de sistemas y servicios informáticos cumpliendo con todas las normas técnicas de seguridad y calidad.
-
-Considero que la constante actualización es la clave para mantenerme siempre a la vanguardia de las últimas tendencias y tecnologías emergentes, por lo que me motiva aprender nuevas habilidades y estar en contacto con un grupo de trabajo diverso, el cual me permita aplicar soluciones innovadoras a los diferentes desafíos que se presentan.
+Como Ingeniero de Sistemas y Desarrollador de Software, me entusiasma el aprendizaje continuo. Mi dedicación a mantenerme al tanto de las últimas tendencias tecnológicas me impulsa a seguir creciendo profesionalmente. Mi meta es aportar al éxito de una empresa innovadora. Estoy siempre listo para enfrentar desafíos y colaborar en proyectos que generen un impacto positivo.
 
 ### Tecnologías
 
