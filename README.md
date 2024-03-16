@@ -1,6 +1,6 @@
 # ¡Hola, mi nombre es David Santiago! 👋
 
-## ¿Quién soy?
+## Sobre mi
 Como Ingeniero de Sistemas y Desarrollador de Software, me entusiasma el aprendizaje continuo. Mi dedicación a mantenerme al tanto de las últimas tendencias tecnológicas me impulsa a seguir creciendo profesionalmente. Mi meta es aportar al éxito de una empresa innovadora. Estoy siempre listo para enfrentar desafíos y colaborar en proyectos que generen un impacto positivo.
 
 ### Tecnologías
