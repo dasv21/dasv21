@@ -3,28 +3,6 @@
 ## Sobre mí
 Ingeniero de Sistemas y Desarrollador de Software. Me apasiona crear soluciones tecnológicas que realmente marquen la diferencia. Con experiencia en diversas tecnologías y un enfoque práctico, me encanta trabajar en proyectos que optimicen procesos y mejoren la eficiencia. Estoy comprometido con el éxito de cada proyecto y siempre dispuesto a colaborar en equipo para alcanzar los mejores resultados.
 
-## Tecnologías
-
-| Tecnología          | Nivel de experiencia |
-|---------------------|----------------------|
-| Java                | Intermedio           |
-| Spring              | Intermedio           |
-| Git                 | Intermedio           |
-| Docker              | Básico               |
-| HTML & CSS          | Básico               |
-| JUnit               | Básico               |
-| JavaScript          | Básico               |
-| PHP                 | Básico               |
-| Python              | Básico               |
-| SQL                 | Básico               |
-| React (Vite)        | Básico               |
-| TailwindCSS         | Básico               |
-| Microservicios      | Intermedio           |
-| PostgreSQL          | Básico               |
-| MySQL               | Básico               |
-| Windows, Linux      | Intermedio           |
-| Herramientas de diagnóstico y reparación de hardware y software | Intermedio |
-
 ## Proyectos
 
 ### [Proyecto de Contabilidad - Backend](https://github.com/dasv21/Proyecto-Contabilidad-Backend)
@@ -78,6 +56,28 @@ Universidad Nacional Experimental Politécnica de las Fuerzas Armadas Nacional (
 
 * Español: Lengua Materna.
 * Inglés: Básico Nivel B1.
+
+## Tecnologías
+
+| Tecnología          | Nivel de experiencia |
+|---------------------|----------------------|
+| Java                | Intermedio           |
+| Spring              | Intermedio           |
+| Git                 | Intermedio           |
+| Docker              | Básico               |
+| HTML & CSS          | Básico               |
+| JUnit               | Básico               |
+| JavaScript          | Básico               |
+| PHP                 | Básico               |
+| Python              | Básico               |
+| SQL                 | Básico               |
+| React (Vite)        | Básico               |
+| TailwindCSS         | Básico               |
+| Microservicios      | Intermedio           |
+| PostgreSQL          | Básico               |
+| MySQL               | Básico               |
+| Windows, Linux      | Intermedio           |
+| Herramientas de diagnóstico y reparación de hardware y software | Intermedio |
 
 ## Contacto
 
