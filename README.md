@@ -11,6 +11,9 @@ Desarrollo de un sistema web para el registro y generación de reportes contable
 ### [Proyecto de Contabilidad - Frontend](https://github.com/dasv21/Proyecto-Contabilidad-Frontend)
 Implementación del frontend del sistema contable utilizando React (Vite) y TailwindCSS. Este proyecto facilita la interacción del usuario con el sistema y proporciona una interfaz amigable y eficiente.
 
+### [Proyecto de Registro de Consultas Medicas](https://github.com/dasv21/Registro_de_colsultas_medicas)
+Despliegue de un sistema de registro utilizando Php, Jquery, HTML y CSS. El sistema mencionado optimizo el control y registros de citas medicas en el departamento en mas de un 60%, ya que anteriormente se realizaba de forma manual.
+
 ## Experiencia Profesional
 
 **Desarrollador: Oficina Contable Lic. Oneida Alvarado**  
